@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('../partials/head'); %>
+    <meta name="description" content="JGIT response page - Just Get In Touch - API" />
+    <title>JGIT - Details</title>
+  </head>
+  <body>
+    <h1><%= heading %></h1>
+    <p><%= paragraph %></p>
+    <% if(website){ %>
+    <a href="<%=website%>"><%=website%></a>
+    <% }%>
+  </body>
+</html>
