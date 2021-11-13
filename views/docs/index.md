@@ -56,5 +56,4 @@ All you have to do is add another input tag with the name ```_next``` and set th
 <input type="text" name="_next" value="https://mydomain.com/thank-you-page">
 ```
 
-## 5. There is no number 5
-### You're all set up, congratulations!
+### There is no number 5, you're all set up and ready to roll!
